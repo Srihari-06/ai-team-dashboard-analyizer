@@ -1,7 +1,3 @@
-<!-- PROJECT BANNER -->
-<p align="center">
-  <img src="https://github.com/yourusername/ai-team-dashboard-banner.png" alt="AI Team Management Dashboard" width="100%">
-</p>
 
 <h1 align="center">🤖 AI-Powered Team Management Dashboard</h1>
 
@@ -78,11 +74,11 @@ Make sure you have these installed:
 git clone https://github.com/Srihari-06/ai-team-dashboard.git
 cd ai-team-dashboard
 
-### 2️⃣ Database Setup
+#### 2️⃣ Database Setup
 mysql -u root -p
 source database/schema.sql
 
-### 3️⃣ Backend Setup
+##### 3️⃣ Backend Setup
 cd backend
 cp .env.example .env   # Edit DB credentials + OpenAI API key
 
@@ -92,13 +88,13 @@ pip install -r requirements.txt
 python app.py
 
 Backend: http://127.0.0.1:5000
-### 4️⃣ Frontend Setup
+###### 4️⃣ Frontend Setup
 cd frontend
 npm install
 npm run dev
 Frontend: http://localhost:5173
 
-### 📊 Folder Structure
+####### 📊 Folder Structure
 ai-team-dashboard/
 │
 ├── backend/
