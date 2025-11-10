@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/MySQL-Database-blue?logo=mysql&logoColor=white" alt="MySQL Badge">
   <img src="https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=white" alt="React Badge">
   <img src="https://img.shields.io/badge/TailwindCSS-Styling-38BDF8?logo=tailwindcss&logoColor=white" alt="TailwindCSS Badge">
-  <img src="https://img.shields.io/badge/OpenAI-Integration-412991?logo=openai&logoColor=white" alt="OpenAI Badge">
+  <img src="https://img.shields.io/badge/Gemini-Integration-412991?logo=gemini&logoColor=white" alt="Gemini 2.5 Badge">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License Badge">
 </p>
 
