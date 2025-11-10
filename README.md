@@ -127,9 +127,6 @@ Email notifications for task updates
 
 Predictive analytics (AI-based forecasting)
 
-| Upload & Dashboard                                                      | AI Query Interface                                                 |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| ![Dashboard] |  |<img width="1920" height="1020" alt="AI Team Management Dashboard - Google Chrome 11_10_2025 7_07_38 PM" src="https://github.com/user-attachments/assets/1c5038f5-561c-4359-a5a5-f1975c731891" /><img width="1920" height="1020" alt="AI Team Management Dashboard - Google Chrome 11_10_2025 7_08_20 PM" src="https://github.com/user-attachments/assets/5361508c-f6a4-4e5f-bcc0-b5d620a2825a" />
 
 🧾 License
 
