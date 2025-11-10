@@ -8,8 +8,8 @@ from decimal import Decimal
 class AIAnalyzer:
     def __init__(self):
         # Only initialize Gemini
-        if os.getenv('AIzaSyAse2SbC0V-LSLrdHb719pfqYseCEs06kc'):
-            genai.configure(api_key=os.getenv('AIzaSyAse2SbC0V-LSLrdHb719pfqYseCEs06kc'))
+        if os.getenv('GEMINI_API_KEY'):
+            genai.configure(api_key=os.getenv('GEMINI_API_KEY'))
             self.gemini_model = genai.GenerativeModel('gemini-pro')
         else:
             self.gemini_model = None
